@@ -81,24 +81,24 @@ footer a:hover {
     background-color: #9C528B; 
 }
 
-.first-sec {
+.first-section {
     display: flex;
     justify-content: center;
     align-items: center;
     padding: 1rem 0;
 }
 
-.first-sec div {
+.first-section div {
     flex-grow:0;
     align-self: flex-start;
 }
 
-.first-para {
+.first-section p {
     flex-grow:1;
     align-self: stretch;
 }
 
-.second-sec {
+.second-section {
     display: flex;
     flex-direction: row;
     gap: 1rem;
